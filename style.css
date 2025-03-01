@@ -1,0 +1,101 @@
+#neelam{
+    width: 296px;
+    border-bottom: 2px #6f6f6f solid;
+    border-bottom-color: #85c1e9;
+    background-color: #a2ace6;
+}
+#neelam1{
+    width: 60px;
+    border-bottom: 2px #6f6f6f solid;
+    border-bottom-color: #85c1e9;
+    background-color: #506471;
+    padding: 0px;
+    color: white;
+    font-size: small;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+}
+body{
+    background-color: #9b9b9b;
+}
+table{
+    margin: auto;
+    background-color: #ff4561;
+    width: 295px;
+    max-width: 295px;
+    height: 325px;
+    text-align: center;
+    border-radius: 4px;
+    padding-right: 10px;
+    border-color: #ff4561;
+}
+input{
+    outline: 0;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border: 0;
+    color: #485069;
+    background-color: #fff;
+    border-radius: 4px;
+    width: 60px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    font-size: 20px;
+    box-shadow: 0 4px rgb(0,0,0,0,2);
+    margin-bottom: 15px;   
+}
+input:hover{
+    border: 0 solid#000;
+    color: #485069;
+    background-color: #fff;
+    border-radius: 4px;
+    width: 60px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    font-size: 20px;
+    box-shadow: 0 4px #b0d2cf;
+}
+.operator{
+    background-color: #cee9ea;
+    position: relative;
+    }
+    .operator:hover{
+        background-color: #cee9ea;
+        box-shadow: none;
+    }
+    #clear{
+        float: left;
+        position: relative;
+        display: block;
+        background-color: #ff9fa8;
+    }
+    #clear:hover{
+        float: left;
+        display: block;
+        background-color: #f297A0;
+        margin-bottom: 1px;
+        box-shadow: 0 4px #cc7f86;
+    }
+    #clear :active{
+        float: left;
+        top: 4px;
+        display: block;
+        background-color: #f297A0;
+        margin-bottom: 1px;
+        box-shadow: none;
+    }
+    h3{
+        text-align: center;
+        color: white;
+        font-size: 60px;
+    }
+#zero{
+    width: 140px;
+}
+#igual{
+    height: 130px;
+}
